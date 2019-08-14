@@ -15,9 +15,11 @@ NoClouds was founded to give the Internet back to people who use it:
 NoClouds was founded in Israel in August, 2019.
 
 Contact:
-`
+
 Isaac Jacobs
+
 16 King George St.
+
 Tel Aviv, Israel
+
 +972-053-529-1029
-`

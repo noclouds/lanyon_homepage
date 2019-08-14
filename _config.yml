@@ -5,9 +5,9 @@ permalink:           pretty
 
 # Setup
 title:               NoClouds
-tagline:             'The NoClouds Organization on Github'
+tagline:             'The Internet belongs to everyone.'
 description:         'Your source for information and updates on the NoClouds developent project on Github.'
-url:                 http://lanyon.github.io
+url:                 https://noclouds.github.io
 baseurl:             '/lanyon_homepage'
 paginate:            5
 
